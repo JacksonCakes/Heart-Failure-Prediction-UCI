@@ -30,4 +30,5 @@ https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
 | Smoking  | Boolean        |0,1   | 
 | Time  | Days        |[4...285]   | 
 | Death Event  | Boolean        |0,1   | 
+
 **NOTE: mcg/L: micrograms per liter. mL: microliter. mEq/L: milliequivalents per litre
